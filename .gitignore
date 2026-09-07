@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Regenerable data and run outputs
+experiments/data_colored_mnist/
+experiments/runs/
+runs/
+data/
+*.pt
+*.npz
